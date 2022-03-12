@@ -4,3 +4,4 @@ Esta es una landing page simple la cual fue desarrollada para una entrevista lab
 
 La idea es realizar futuros cambios a la misma para agregarle diferentes tipos de funcionalidades
 
+       
